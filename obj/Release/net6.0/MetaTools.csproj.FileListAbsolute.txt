@@ -1,0 +1,152 @@
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\MetaTools.exe
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\MetaTools.deps.json
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\MetaTools.runtimeconfig.json
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\MetaTools.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\MetaTools.pdb
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Chaos.NaCl.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Common.Logging.Core.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Jil.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\NBitcoin.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\NBitcoin.Secp256k1.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.ABI.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.Accounts.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.BlockchainProcessing.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.Contracts.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.HdWallet.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.Hex.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.JsonRpc.Client.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.KeyStore.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.Model.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.RLP.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.RPC.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.Signer.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.Util.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Nethereum.Web3.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Sigil.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Solnet.Extensions.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Solnet.Programs.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Solnet.Rpc.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Solnet.Wallet.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\SQLite-net.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\SQLitePCLRaw.core.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\System.Runtime.InteropServices.PInvoke.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Telegram.Bot.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\Utf8Json.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\admin\Desktop\bot\bin\Release\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.AssemblyInfo.cs
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.csproj.CopyComplete
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.dll
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\refint\MetaTools.dll
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.pdb
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\MetaTools.genruntimeconfig.cache
+C:\Users\admin\Desktop\bot\obj\Release\net6.0\ref\MetaTools.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\MetaTools.exe
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\MetaTools.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\MetaTools.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\MetaTools.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\MetaTools.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Chaos.NaCl.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Common.Logging.Core.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Jil.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\NBitcoin.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\NBitcoin.Secp256k1.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.ABI.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.Accounts.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.BlockchainProcessing.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.Contracts.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.HdWallet.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.Hex.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.JsonRpc.Client.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.KeyStore.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.Model.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.RLP.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.RPC.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.Signer.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.Util.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Nethereum.Web3.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Sigil.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Solnet.Extensions.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Solnet.Programs.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Solnet.Rpc.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Solnet.Wallet.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\SQLite-net.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\SQLitePCLRaw.core.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\System.Runtime.InteropServices.PInvoke.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Telegram.Bot.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\Utf8Json.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\bin\Release\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.csproj.CopyComplete
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\refint\MetaTools.dll
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\MetaTools.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\bot\obj\Release\net6.0\ref\MetaTools.dll
